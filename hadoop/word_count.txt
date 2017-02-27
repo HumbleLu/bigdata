@@ -1,0 +1,3 @@
+I'm using reflection discover a method satisfying some conditions and to invoke the found method.
+
+Check following code. Using Groovy..

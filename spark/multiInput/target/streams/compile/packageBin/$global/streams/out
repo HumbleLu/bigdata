@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mPackaging /root/spark/multiInput/target/scala-2.10/multiple-input_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	MultiInput$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark/multiInput/target/scala-2.10/classes/MultiInput$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	MultiInput$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark/multiInput/target/scala-2.10/classes/MultiInput$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	MultiInput$.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark/multiInput/target/scala-2.10/classes/MultiInput$.class[0m
+[0m[[0mdebug[0m] [0m	MultiInput$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark/multiInput/target/scala-2.10/classes/MultiInput$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	MultiInput.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark/multiInput/target/scala-2.10/classes/MultiInput.class[0m
+[0m[[0mdebug[0m] [0m	MultiInput$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark/multiInput/target/scala-2.10/classes/MultiInput$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	MultiInput$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark/multiInput/target/scala-2.10/classes/MultiInput$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	MultiInput$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark/multiInput/target/scala-2.10/classes/MultiInput$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	MultiInput$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark/multiInput/target/scala-2.10/classes/MultiInput$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	MultiInput$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /root/spark/multiInput/target/scala-2.10/classes/MultiInput$$anonfun$6.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,3 @@
+WUJ-360100;math;56
+WPY-802007;math;98
+FKT-670008;science;67
